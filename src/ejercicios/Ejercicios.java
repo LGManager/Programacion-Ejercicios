@@ -8,7 +8,7 @@ package ejercicios;
 
 /**
  *
- * @author Geovanny Loor kelvin zambrano
+ * @author Geovanny Loor Kelvin Zambrano
  */
 public class Ejercicios {
 
